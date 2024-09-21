@@ -1,0 +1,12 @@
+GxMich $2y$10$Onk/lAD.8qF9b7EVKRFR7.sADuiUErjZJxb9ZnIsLIV3tlk39mtA. 1515
+martina $2y$10$gz8B1xpm2WYfH3wjnV/xq.lhhXiWbcQo5bMME6NlZI6GntmpaoIeG 480
+Marty $2y$10$7AWcWEx3P73WE5k6vapF4Okcy2HegFauNrNXQ5BeX5NLDeLSND5uW 3a
+root $2y$10$DMIWiJX6xSBDKPrqEz28mu20IN8ur9QYrpeST9.YWzb3Mkhr39UV6 0
+root21 $2y$10$zPYphpH7tlZYVNDuxCb8bew8Cyhujzq2oNP7DmbtQyOAyRhGShQlS 0
+mmmodica $2y$10$zeOhJuoVfqjMR9/XAT.PPOn9Bjs7t1sJJCtx9fc4kzVOUkGgHeYlS 100
+modica $2y$10$lsX0tBdoey90xRfUe8xCle2jkn0Z75X5EzTCApRVzBBBqZADMNww. 0
+m $2y$10$UZOXbvlNK2F.PC2oWCJrceNsAWrF1uQV17cFyRsUnpSEHFWlxPkAq 0
+Michi $2y$10$VQaCQHXWrYl7M5yhgx2K0OXIlflHPQYSiKKE9mMTf3dhnOzvayKRi 0
+Martinaa $2y$10$wZmKJZzrYvet.HUX.A0FgucnfPzi2QovhgZCboPm3VBEYG0G/b/C6 10
+Nico2024 $2y$10$Py7zPrEQADDxMJNQsg1pp.PjbkDq1vqf0HPOxqMPXteMRs5qnNAk2 15
+michi $2y$10$lmkXn3hfSDE1IJy03ssZ4Ovv9lSpAKcCqZvAsqSbP/4kcZC4DDoye 15

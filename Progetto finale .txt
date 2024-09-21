@@ -1,0 +1,50 @@
+Progetto finale 
+COOKIE
+- popup cookie privasy 
+	- se consentiti si potra fare il login
+	- se non accetati la paggina darà un avviso che senza accetare i cookie non si può accedere al sito
+- deve avere la possibilità di essere anche in inglese
+
+SINGIN
+- le credenziali inserite dovranno essere verificate se valide (ad esempio controllare se il nome e gia in uso)
+- se sono correte verranno salvate su un file.txt che il sistema dovra usare per il login (le password saranno criptate prima di essere salvate)
+
+LOGIN
+- controlla se sul file le credenziali sono presenti
+
+SINGIN LOGIN
+- la scelta tra login e singin sara gestico con le jquery tramite uno swipe a destra o sinistra oppure con delle freccie
+- in altro a sinistra si potra scegliere la lingua tra italiano ed inglese 
+
+HOME 
+- home header ci sara un toolbar con:
+	1. il nome della pagina;
+	2. profilo
+	3. nella scelta profilo se si ferma il mouse su di esso spunta un menu a tendina con (profilo, impostazioni, logout)
+- punteggio tot dei giochi
+- schede con i giochi e il punteggio di ognuno di loro
+	- se si usa la modalità a sbocco gioco con punteggio sara disponibie solo la prima scheda le altre sarrano opache con un lucchetto 	(in base al punteggio)
+- classifica dei giocatori
+
+PROFILO
+- cambiare foto profilo
+- cambiare username e password
+- cancellare profilo
+
+IMPOSTAZIONI
+- cambiare lingua
+- cambiare modalita di gioco (la modalita di defoult sarà quella di poter giocare a qualsiasi gioco mentre l'altra modalita sblocchera i giochi superato il punteggio dell'utente
+- cambiare modalita giorno notte
+
+LOGOUT
+- tornera al paggina di login cancellando la sessione
+
+GIOCHI 
+- primo gioco quello della consegna
+- secondo gioco domande chiuse
+- terzo gioco 4 img una parola
+- quarto gioco nonogram (gioco mobile)
+
+
+
+
